@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "rocket-avionics-library")(type "KiCad")(uri "C:/Users/alexf/Documents/Coding Projects/electronics-rocket-avionics/rocket-avionics-library.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32_Black_Pill")(type "Legacy")(uri "C:/Users/alexf/Downloads/Kicad-STM32-master/Kicad-STM32-master/Symbols/YAAJ_WeAct_BlackPill_Part_Like.lib")(options "")(descr ""))
+)
